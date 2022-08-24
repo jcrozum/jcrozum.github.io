@@ -68,16 +68,21 @@ analyses of galaxy catalogs to search for possible indications of observation bi
 - NetSci member
 
 ## Teaching Experience
+
 #### Teaching Assistant, Pennsylvania State University Department of Mathematics 2016-2017
-- Course: Introductory Classical Mechanics
+Course: Introductory Classical Mechanics
+
 #### Course Instructor, Utah State University 2015
-- Course: Advanced Calculus
+Course: Advanced Calculus
+
 #### Teaching Assistant, Utah State University Department of Mathematics 2015
-- Courses: Introductory College Algebra
+Courses: Introductory College Algebra
+
 #### Teaching Assistant, Utah State University Department of Physics 2013-2014
-- Courses: Introductory Physics I and II
+Courses: Introductory Physics I and II
+
 #### Undergraduate Teaching Fellow, Utah State University 2011-2013
-- Courses: Classical Mechanics, Electromagnetism I and II
+Courses: Classical Mechanics, Electromagnetism I and II
 
 ## Relevant Skills
 Programming ability in C++, Python, Octave, R, Maple, Sage <br>
