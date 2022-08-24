@@ -12,7 +12,7 @@ My work is about studying how feedback loops underlie multistability in network 
 ## Research Experience
 
 ### Postdoctoral Researcher 2022-Present, Binghamton University (SUNY) Dept. of Systems Science and Industrial Engineering
-I am a current member of the Complex Adaptive Systems & Computational Intelligence laboratory lead by Professor Luis Rocha. I work on developing new tools and algorithms for analyzing complex networks in a variety of domains, including social media, biomedical data, and systems biology.
+I am a current member of the Complex Adaptive Systems & Computational Intelligence ([CASCI](https://casci.binghamton.edu/casci.php)) laboratory lead by Professor Luis Rocha. I work on developing new tools and algorithms for analyzing complex networks in a variety of domains, including social media, biomedical data, and systems biology.
 
 ### Graduate Research Assistant 2016–2022, Pennsylvania State University Dept. of Physics
 Developing new network control approaches that generalize methods for discrete dynamics to continuous ODE network
