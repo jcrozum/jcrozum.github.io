@@ -1,6 +1,7 @@
 # CV for Jordan Rozum
 [GitHub](https://github.com/jcrozum) <br>
-[GoogleScholar](https://scholar.google.com/citations?user=xUOh4q4AAAAJ&hl=en&oi=ao)
+[GoogleScholar](https://scholar.google.com/citations?user=xUOh4q4AAAAJ&hl=en&oi=ao) <br>
+[ORCiD](https://orcid.org/0000-0002-4356-9809)
 ## Research Interests
 
 Current work: biological networks, network control theory, discrete and ODE biological models<br>
