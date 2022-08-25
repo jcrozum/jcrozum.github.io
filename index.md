@@ -68,8 +68,8 @@ DifferentialGeometry package of the computer algebra system Maple.
 
 ### Undergraduate Researcher, 2011-2014, Utah State University Dept. of Electrical Engineering
 
-Data validation for the SABER (Sounding of the Atmosphere using Broadband Emission Radiometry) satellite instru-
-ment in collaboration with Professor Gene Ware and Professor Doran Baker. Analyzed SABER data, and maintained
+Data validation for the SABER (Sounding of the Atmosphere using Broadband Emission Radiometry) satellite instrument 
+in collaboration with Professor Gene Ware and Professor Doran Baker. Analyzed SABER data, and maintained
 the USU copy of the database. Focused on perceived bifurcation of hydroxyl airglow layer in the mesosphere.
 Undergraduate Research Fellow, 2010-2014, Utah State University Dept. of Physics
 Examining bias in galaxy catalogs due to galaxy geometry in collaboration with Professor Shane Larson as part of USU’s
@@ -148,8 +148,7 @@ in Complex Systems 22 (07n08), 1950020, 2020
 JC Rozum, E Ravasz Regan, R Albert. Sci Rep 9 16430, 2019
 
 
-“Identifying (un) controllable dynamical behavior in complex networks”. JC Rozum and R Albert. PLoS Compu-
-tational Biology 14 (12), 2018
+“Identifying (un) controllable dynamical behavior in complex networks”. JC Rozum and R Albert. PLoS Computational Biology 14 (12), 2018
 
 
 “Self-sustaining positive feedback loops in discrete and continuous systems”. JC Rozum and R Albert. Journal of
