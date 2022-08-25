@@ -41,8 +41,8 @@ first time that stochastic genome-scale biomolecular models were analyzed in suc
 of our analysis showed that the behaviors of traditional random models of gene regulation are
 highly sensitive to stochasticity, suggesting biological selection pressures that are not accounted for in the canonical model.
 
-See the relevant paper [here](https://doi.org/10.1126/sciadv.abf8124).
-See popular press summary [here](https://www.eurekalert.org/news-releases/583775)
+See the relevant paper [here](https://doi.org/10.1126/sciadv.abf8124),
+and a popular press summary [here](https://www.eurekalert.org/news-releases/583775).
 
 ## Research Experience
 
