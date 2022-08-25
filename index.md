@@ -9,6 +9,41 @@ Previous work: galaxy modeling, airglow physics, differential geometry and Lie t
 
 My work is about studying how feedback loops underlie multistability in network models of complex systems, and biomolecular systems in particular. I work on generalizing Boolean techniques to ODEs by considering how positive feedback loops in networks give rise to trap sets in phase space. I've used this framework to study attractor control of ODE models in various contexts, including the cell cycle regulation, pattern formation during embriogenesis, and immune cell signaling. I am also interested in studying Boolean networks. I am the lead developer of the Python library pystablemotifs, which enables fast attractor identification and control in Boolean networks. This library has allowed us to study attractor scaling in large random Boolean networks and to drive empirical Boolean networks to any desired attractor.
 
+### Highlights: Characterizing robust behaviors in cells
+
+#### “Identifying (un) controllable dynamical behavior in complex networks”. JC Rozum and R Albert. PLoS Computational Biology 14 (12), 2018
+
+![Drosophila](DrosophilaEN.png)
+
+I developed a formalism that allows one to identify positive feedback loops
+in ODE models that function in a manner analogous to the stable motifs of discrete models. I used this
+formalism to analyze the biomolecular decisions that lead to the formation of embryonic segments in the
+fly (*Drosophila melanogaster*) and to uncover a self-reinforcing feedback loop in the biomolecular circuitry
+that governs the response of T-cells to external signals. In both cases, I showed how my methods identify
+manipulations of the system that can disrupt observed phenotypes and manipulations that cannot.
+Apart from their utility in basic science research, observations of this nature have important potential applications 
+in the development of pharmaceuticals
+because they can narrow the (often very expensive) search for potential drug targets.
+
+See the relevant paper [here](https://doi.org/10.1371/journal.pcbi.1006630).
+
+### Highlights: Making sense of long-term behaviors in large networks
+
+#### “Parity and time-reversal elucidate both decision-making in empirical models and attractor scaling in critical Boolean networks”. JC Rozum, JGT Zañudo, X Gan, D Deritei and R Albert. Science Adv. 7 (29), eabf8124,2021
+
+![PS](PS_SD_Overview.png)
+
+I led the development of the open-source Python library [pystablemotifs](https://github.com/jcrozum/pystablemotifs), 
+which provides one of the world's fastest algorithms for attractor identification
+and control in Boolean networks. This library uses parity and time reversal provide new insights into the key regulatory circuits that underpin the biochemical "decisions" that cells make. We used this tool to identify
+the attractor repertoires of networks 80 times larger than ever before considered and thereby resolved a 50-year-old open problem about how stochasticity affects a cell's diversity of phenotypes. This was the
+first time that stochastic genome-scale biomolecular models were analyzed in such detail. The results
+of our analysis showed that the behaviors of traditional random models of gene regulation are
+highly sensitive to stochasticity, suggesting biological selection pressures that are not accounted for in the canonical model.
+
+See the relevant paper [here](https://doi.org/10.1126/sciadv.abf8124).
+See popular press summary [here](https://www.eurekalert.org/news-releases/583775)
+
 ## Research Experience
 
 ### Postdoctoral Researcher 2022-Present, Binghamton University (SUNY) Dept. of Systems Science and Industrial Engineering
