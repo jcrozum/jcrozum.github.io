@@ -92,16 +92,18 @@ analyses of galaxy catalogs to search for possible indications of observation bi
 - Capstone project: Analyzing solutions to the Einstein equations using the Maple package DifferentialGeometry
 
 ## Honors, Awards, and Society Memberships
-- PSU Peter Eklund Memorial Lectureship Award Honorable Mention, 2019,2020
-- PSU David Duncan Graduate Fellowship, 2019
-- PSU Department of Physics David H. Rank Memorial Award, 2017
-- PSU College of Science Roberts Scholarship Award, 2016
+- PSU ICDS Featured Researcher ([link](https://www.icds.psu.edu/featured-researcher-jordan/)), 2021
+- PSU Peter Eklund Memorial Lectureship Award Honorable Mention, 2019-2020
+- PSU David Duncan Graduate Fellowship (**$1650**), 2019
+- PSU Department of Physics David H. Rank Memorial Award (**$1200**), 2017
+- PSU College of Science Roberts Scholarship Award (**$2000**), 2016
 - USU Magna Cum Laude, 2014
 - USU Physics Department Outstanding Senior, 2014
-- Barry M. Goldwater Scholar, 2013
+- Barry M. Goldwater Scholar (**$7500**), 2013
 - Barry M. Goldwater Scholarship Honorable Mention, 2012
 - USU A-Pin Award for Consecutive 4.0 Semesters, 2010-2014
-- USU Undergraduate Research Fellow and Presidential Scholar, 2010-2014
+- USU Undergraduate Research Fellow (**$4000**), 2010-2014
+- USU Presidential Scholar (tuition & fees, approx. **$40,000**), 2010-2014
 - Sigma Pi Sigma honor society member
 - NetSci member
 
