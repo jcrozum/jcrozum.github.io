@@ -122,10 +122,12 @@ Courses: Introductory Physics I and II
 #### Undergraduate Teaching Fellow, Utah State University 2011-2013
 Courses: Classical Mechanics, Electromagnetism I and II
 
-## Relevant Skills
-Programming ability in C++, Python, Octave, R, Maple, Sage <br>
-Expertise in network and network modeling packages StableMotifs, BooleanNet, PyBoolNet, networkx, igraph, statnet <br>
-Proficient with graph visualization software yEd, tikz, gephi <br>
+## Skills
+Programming expertise in Python, familiarity in C++, CUDA, Octave, R, Sage, others <br>
+Lead developer of pystablemotifs (Python) and cubewalkers (Python+CUDA) libraries <br>
+Expertise in network science and discrete dynamical modeling <br>
+Strong background in mathematics and algorithm development <br>
+Experience with high-performance computing and managing large datasets
 
 ## Publications
 “Attractor identification and control of Boolean and ODE network models in Systems Biology”. JC Rozum. PhD Dissertation in Physics, 2022
