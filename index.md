@@ -132,6 +132,8 @@ Strong background in mathematics and algorithm development <br>
 Experience with high-performance computing and managing large datasets
 
 ## Publications
+“Leveraging network structure in nonlinear control”. JC Rozum and R Albert. npj Syst Biol Appl 8, 36, 2022
+
 “Attractor identification and control of Boolean and ODE network models in Systems Biology”. JC Rozum. PhD Dissertation in Physics, 2022
 
 “pystablemotifs: Python library for attractor identification and control in Boolean networks”. JC Rozum, D
