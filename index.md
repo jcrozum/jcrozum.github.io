@@ -2,7 +2,8 @@
 I am a postdoctoral researcher studying complex systems in the Complex Adaptive Systems & Computational Intelligence ([CASCI](https://casci.binghamton.edu/casci.php)) laboratory at Binghamton University. I have a math and physics background, and a focus on applications to systems biology.
 
 [GitHub](https://github.com/jcrozum) <br>
-[GoogleScholar](https://scholar.google.com/citations?user=xUOh4q4AAAAJ&hl=en&oi=ao) <br>
+[Google Scholar](https://scholar.google.com/citations?user=xUOh4q4AAAAJ&hl=en&oi=ao) <br>
+[ResearchGate](https://www.researchgate.net/profile/Jordan-Rozum) <br>
 [ORCiD](https://orcid.org/0000-0002-4356-9809)
 
 ## Research Interests
