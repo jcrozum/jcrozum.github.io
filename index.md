@@ -72,7 +72,9 @@ DifferentialGeometry package of the computer algebra system Maple.
 Data validation for the SABER (Sounding of the Atmosphere using Broadband Emission Radiometry) satellite instrument 
 in collaboration with Professor Gene Ware and Professor Doran Baker. Analyzed SABER data, and maintained
 the USU copy of the database. Focused on perceived bifurcation of hydroxyl airglow layer in the mesosphere.
-Undergraduate Research Fellow, 2010-2014, Utah State University Dept. of Physics
+
+### Undergraduate Research Fellow, 2010-2014, Utah State University Dept. of Physics
+
 Examining bias in galaxy catalogs due to galaxy geometry in collaboration with Professor Shane Larson as part of USU’s
 Undergraduate Research Fellowship. Wrote computer simulations of galaxy surface brightness. Performed statistical
 analyses of galaxy catalogs to search for possible indications of observation bias.
