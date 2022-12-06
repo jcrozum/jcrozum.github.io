@@ -1,5 +1,5 @@
 # Jordan Rozum
-I am a postdoctoral researcher studying complex systems in the Complex Adaptive Systems & Computational Intelligence ([CASCI](https://casci.binghamton.edu/casci.php)) laboratory at Binghamton University. I have a math and physics background, and a focus on applications to systems biology.
+I am a postdoctoral researcher studying complex systems in the Complex Adaptive Systems & Computational Intelligence ([CASCI](https://casci.binghamton.edu/casci.php)) laboratory at Binghamton University. I have a math and physics background, and a focus on applications to systems biomedicine and computational social science.
 
 [GitHub](https://github.com/jcrozum) <br>
 [Google Scholar](https://scholar.google.com/citations?user=xUOh4q4AAAAJ&hl=en&oi=ao) <br>
@@ -8,10 +8,12 @@ I am a postdoctoral researcher studying complex systems in the Complex Adaptive 
 
 ## Research Interests
 
-Current work: biological networks, network control theory, discrete and ODE biological models<br>
-Previous work: galaxy modeling, airglow physics, differential geometry and Lie theory
+**Current work: complex systems science, network dynamics and control theory, systems biology and biomedicine**<br>
+*Previous work: galaxy modeling, airglow physics, differential geometry and Lie theory*
 
-My work is about studying how feedback loops underlie multistability in network models of complex systems, and biomolecular systems in particular. I work on generalizing Boolean techniques to ODEs by considering how positive feedback loops in networks give rise to trap sets in phase space. I've used this framework to study attractor control of ODE models in various contexts, including the cell cycle regulation, pattern formation during embriogenesis, and immune cell signaling. I am also interested in studying Boolean networks. I am the lead developer of the Python library pystablemotifs, which enables fast attractor identification and control in Boolean networks. This library has allowed us to study attractor scaling in large random Boolean networks and to drive empirical Boolean networks to any desired attractor.
+I have a math and physics background, and a focus on applications to systems biology. My work is about studying how feedback loops underlie multistability in network models of complex systems, especially as applied to biomedical systems. Much of my work is about studying how feedback loops underlie multistability in network models of complex systems, and biomolecular systems in particular. I work on generalizing Boolean techniques to ODEs by considering how positive feedback loops in networks give rise to trap sets in phase space. I've used this framework to study attractor control of ODE models in various contexts, including the cell cycle regulation, pattern formation during embriogenesis, and immune cell signaling.  I have studied attractor control of ODE models in cell cycle regulation, pattern formation during embriogenesis, and immune cell signaling. I am also interested in studying Boolean networks; I am the lead developer of the Python library pystablemotifs, which enables fast attractor identification and control in Boolean networks, and I have done work on the order-to-chaos transition in random Boolean networks. Recently, I have also been developing methods to sparsify multi-layer networks while taking into account multiple data sources. I am applying these methods to various problems in computational social science, health, and biomedical complexity.
+
+
 
 ### Highlights: Understanding the biomolecular decisions that cells make
 
@@ -135,58 +137,38 @@ Strong background in mathematics and algorithm development <br>
 Experience with high-performance computing and managing large datasets
 
 ## Publications
-“Leveraging network structure in nonlinear control”. JC Rozum and R Albert. npj Syst Biol Appl 8, 36, 2022
+**JC Rozum** and R Albert. Leveraging network structure in nonlinear control. *npj Systems Biology and Applications* **8**, 36 (2022)
 
-“Attractor identification and control of Boolean and ODE network models in Systems Biology”. JC Rozum. PhD Dissertation in Physics, 2022
+**JC Rozum**. Attractor identification and control of Boolean and ODE network models in Systems Biology. PhD Dissertation in Physics, Pennsylvania State University (2022)
 
-“pystablemotifs: Python library for attractor identification and control in Boolean networks”. JC Rozum, D
-Deritei, KH Park, JGT Zañudo, R Albert. Bioinformatics btab825, 2021
+**JC Rozum**, D Deritei, KH Park, JGT Zañudo, R Albert. pystablemotifs: Python library for attractor identification and control in Boolean networks. *Bioinformatics* **38** (5), btab825 (2021)
 
-“Parity and time-reversal elucidate both decision-making in empirical models and attractor scaling in critical
-Boolean networks”. JC Rozum, JGT Zañudo, X Gan, D Deritei and R Albert. Science Adv. 7 (29), eabf8124,
-2021
+**JC Rozum**, JGT Zañudo, X Gan, D Deritei and R Albert. Parity and time-reversal elucidate both decision-making in empirical models and attractor scaling in critical Boolean networks. *Science Advances* **7** (29), eabf8124 (2021)
 
-“Controlling the cell cycle restriction switch across the information gradient”. JC Rozum and R Albert. Advances
-in Complex Systems 22 (07n08), 1950020, 2020
+**JC Rozum** and R Albert. Controlling the cell cycle restriction switch across the information gradient. *Advances in Complex Systems* **22** (07n08), 1950020 (2020)
 
-“A feedback loop of conditionally stable circuits drives the cell cycle from checkpoint to checkpoint”. D Deritei,
-JC Rozum, E Ravasz Regan, R Albert. Sci Rep 9 16430, 2019
+D Deritei, **JC Rozum**, E Ravasz Regan, R Albert. A feedback loop of conditionally stable circuits drives the cell cycle from checkpoint to checkpoint. *Scientific Reports* **9** 16430 (2019)
 
+**JC Rozum** and R Albert. Identifying (un) controllable dynamical behavior in complex networks. *PLoS Computational Biology* **14** (12) (2018)
 
-“Identifying (un) controllable dynamical behavior in complex networks”. JC Rozum and R Albert. PLoS Computational Biology 14 (12), 2018
+**JC Rozum** and R Albert. Self-sustaining positive feedback loops in discrete and continuous systems. *Journal of Theoretical Biology* **459** 35-44 (2018)
 
+**JC Rozum**. Classification of Five-dimensional Lie Algebras with One-dimensional Subalgebras Acting as Subalgebras of the Lorentz Algebra. Master's Thesis in Mathematics, Utah State University (2015)
 
-“Self-sustaining positive feedback loops in discrete and continuous systems”. JC Rozum and R Albert. Journal of
-Theoretical Biology 459 35-44, 2018
-
-“Classification of Five-dimensional Lie Algebras with One-dimensional Subalgebras Acting as Subalgebras of the
-Lorentz Algebra”. JC Rozum. Master’s Thesis in Mathematics, Utah State University (Advisors IM Anderson
-and CG Torre), 2015
-
-“Global Nightly OH and O2 Mesospheric Airglow: Examining a Decade of Measurements Using the NASA SABER
-Satellite Sensor”. J Price, JC Rozum, G Ware, and D Baker. Journal of the Utah Academy of Sciences, Arts, and
-Letters, 91, 2014
+J Price, **JC Rozum**, G Ware, and D Baker. Global Nightly OH and O2 Mesospheric Airglow: Examining a Decade of Measurements Using the NASA SABER Satellite Sensor. *Journal of the Utah Academy of Sciences, Arts, and Letters*, **91** (2014)
 
 ### Selected Talks and Poster Presentations
 
-“Parity and time-reversal in Boolean networks”. JC Rozum, JGT Zañudo, X Gan, D Deritei and R Albert. Poster
-presented at the Cold Spring Harbor Laboratory Cellular Dyanamics and Models meeting, May 19-21, 2021.
+**JC Rozum**, JGT Zañudo, X Gan, D Deritei and R Albert. Parity and time-reversal in Boolean networks. Poster presented at the Cold Spring Harbor Laboratory Cellular Dyanamics and Models meeting, May 19-21, 2021.
 
-“Boolean Networks: discrete dynamical models of high-dimensional nonlinear systems”. JC Rozum. Invited talk
-given at the University of Pennsylvania Mathematical Biology Seminar, Apr. 6, 2021.
+**JC Rozum**. Boolean Networks: discrete dynamical models of high-dimensional nonlinear systems. Invited talk given at the University of Pennsylvania Mathematical Biology Seminar, Apr. 6, 2021.
 
-“Parity and time-reversal in Boolean networks”. JC Rozum, JGT Zañudo, X Gan, and R Albert. Talk given at
-the NetSci 2020 meeting, Rome, Italy (remote), Sep. 25, 2020
+**JC Rozum**, JGT Zañudo, X Gan, and R Albert. Parity and time-reversal in Boolean networks. Talk given at the NetSci 2020 meeting, Rome, Italy (remote), Sep. 25, 2020
 
-“Control robust trap spaces with applications to biomolecular networks”. JC Rozum and R Albert. Talk given at
-the NetSci 2019 meeting, Burlington, VT, May 29, 2019
+**JC Rozum** and R Albert. Control robust trap spaces with applications to biomolecular networks. Talk given at the NetSci 2019 meeting, Burlington, VT, May 29, 2019
 
-“Identifying (un)controllable dynamical behavior with applications to biomolecular networks”. JC Rozum and R
-Albert. Invited talk given at PSU Theoretical biology seminar, State College, PA, Feb. 20, 2018
+**JC Rozum** and R Albert. Identifying (un)controllable dynamical behavior with applications to biomolecular networks. Invited talk given at Pennsylvania State University Theoretical biology seminar, State College, PA, Feb. 20, 2018
 
-“Modeling spiral galaxy surface luminosity to explain non-uniform inclination distributions”. JC Rozum and SL
-Larson. Poster presented at AAS National Conference, Washington D.C., Jan. 5, 2014
+**JC Rozum** and SL Larson. Modeling spiral galaxy surface luminosity to explain non-uniform inclination distributions. Poster presented at AAS National Conference, Washington D.C., Jan. 5, 2014
 
-“Multiple peaks in SABER mesospheric OH emission altitude profiles”. JC Rozum, GA. Ware, DJ Baker, MG
-Mlynczak, J Russell. Poster presented at AGU Fall Meeting, San Francisco, CA, Dec. 4, 2012
-
+**JC Rozum**, GA. Ware, DJ Baker, MG Mlynczak, J Russell. Multiple peaks in SABER mesospheric OH emission altitude profiles. Poster presented at AGU Fall Meeting, San Francisco, CA, Dec. 4, 2012
