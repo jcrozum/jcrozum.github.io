@@ -129,6 +129,16 @@ Courses: Introductory Physics I and II
 #### Undergraduate Teaching Fellow, Utah State University 2011-2013
 Courses: Classical Mechanics, Electromagnetism I and II
 
+## Reviewer
+Bioinformatics <br>
+Biophysical Journal <br>
+BMC Bioinformatics <br>
+Journal of Complex Networks <br>
+Mathematics in Science and Industry <br>
+Mathematical Biosciences and Engineering <br>
+npj Systems Biology and Applications <br>
+Physica D: Nonlinear Phenomena <br>
+
 ## Skills
 Programming expertise in Python, familiarity in C++, CUDA, Octave, R, Sage, others <br>
 Lead developer of pystablemotifs (Python) and cubewalkers (Python+CUDA) libraries <br>
@@ -137,6 +147,8 @@ Strong background in mathematics and algorithm development <br>
 Experience with high-performance computing and managing large datasets
 
 ## Publications
+FX Costa, **JC Rozum**, AM Marcus, LM Rocha. Effective Connectivity and Bias Entropy Improve Prediction of Dynamical Regime in Automata Networks. *Entropy* **25** (2), 374, (2023)
+
 **JC Rozum** and R Albert. Leveraging network structure in nonlinear control. *npj Systems Biology and Applications* **8**, 36 (2022)
 
 **JC Rozum**. Attractor identification and control of Boolean and ODE network models in Systems Biology. PhD Dissertation in Physics, Pennsylvania State University (2022)
