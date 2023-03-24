@@ -138,6 +138,7 @@ Mathematics in Science and Industry <br>
 Mathematical Biosciences and Engineering <br>
 npj Systems Biology and Applications <br>
 Physica D: Nonlinear Phenomena <br>
+Scientific Reports <br>
 
 ## Skills
 Programming expertise in Python, familiarity in C++, CUDA, Octave, R, Sage, others <br>
