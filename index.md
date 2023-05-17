@@ -136,6 +136,7 @@ BMC Bioinformatics <br>
 Journal of Complex Networks <br>
 Mathematics in Science and Industry <br>
 Mathematical Biosciences and Engineering <br>
+Nature Communications <br>
 npj Systems Biology and Applications <br>
 Physica D: Nonlinear Phenomena <br>
 Scientific Reports <br>
