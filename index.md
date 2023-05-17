@@ -142,13 +142,28 @@ Physica D: Nonlinear Phenomena <br>
 Scientific Reports <br>
 
 ## Skills
-Programming expertise in Python, familiarity in C++, CUDA, Octave, R, Sage, others <br>
+Programming expertise in Python, additional completed projects using C++, CUDA, MATLAB/Octave, R, Rust, Sage, others <br>
 Lead developer of pystablemotifs (Python) and cubewalkers (Python+CUDA) libraries <br>
 Expertise in network science and discrete dynamical modeling <br>
 Strong background in mathematics and algorithm development <br>
 Experience with high-performance computing and managing large datasets
 
 ## Publications
+#### _in preparation_
+AM Marcus, **JC Rozum**, H Sizek, LM Rocha. CANA 1.0: efficient quantification of symmetry in Boolean automata (working title). *In preparation*.
+
+Z Guo, J Felag, RB Correia, **JC Rozum**, LM Rocha. Selection of relevant patient cohorts from social media using the metric backbone of knowledge networks. *In preparation*.
+
+KH Park, FX Costa, LM Rocha, R Albert, **JC Rozum**. Hidden order in biomolecular networks suggests functional modules far from the edge of chaos. *In preparation*.
+
+**JC Rozum** and LM Rocha. The ultrametric backbone is the union of all minimum spanning forests. *In preparation*.
+
+#### _submitted_
+R Li, **JC Rozum**, MM Quail, MN Qasim, SS Sindi, CJ Nobile, R Albert, AD Hernday. Inferring gene regulatory networks using transcriptional profiles as dynamical attractors. Submitted *PLoS Computational Biology* (2023).
+
+**JC Rozum**, C Campbell, E Newby, FSF Nasrollahi, R Albert. Boolean Networks as Predictive Models of Emergent Biological Behaviors. Submitted *Cambridge Elements* (2023).
+
+#### _published_
 FX Costa, **JC Rozum**, AM Marcus, LM Rocha. Effective Connectivity and Bias Entropy Improve Prediction of Dynamical Regime in Automata Networks. *Entropy* **25** (2), 374, (2023)
 
 **JC Rozum** and R Albert. Leveraging network structure in nonlinear control. *npj Systems Biology and Applications* **8**, 36 (2022)
