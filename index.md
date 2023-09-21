@@ -11,9 +11,7 @@ I am a postdoctoral researcher studying complex systems in the Complex Adaptive 
 **Current work: complex systems science, network dynamics and control theory, systems biology and biomedicine**<br>
 *Previous work: galaxy modeling, airglow physics, differential geometry and Lie theory*
 
-I have a math and physics background, and a focus on applications to systems biology. My work is about studying how feedback loops underlie multistability in network models of complex systems, especially as applied to biomedical systems. Much of my work is about studying how feedback loops underlie multistability in network models of complex systems, and biomolecular systems in particular. I work on generalizing Boolean techniques to ODEs by considering how positive feedback loops in networks give rise to trap sets in phase space. I've used this framework to study attractor control of ODE models in various contexts, including the cell cycle regulation, pattern formation during embriogenesis, and immune cell signaling.  I have studied attractor control of ODE models in cell cycle regulation, pattern formation during embriogenesis, and immune cell signaling. I am also interested in studying Boolean networks; I am the lead developer of the Python library pystablemotifs, which enables fast attractor identification and control in Boolean networks, and I have done work on the order-to-chaos transition in random Boolean networks. Recently, I have also been developing methods to sparsify multi-layer networks while taking into account multiple data sources. I am applying these methods to various problems in computational social science, health, and biomedical complexity.
-
-
+I have a math and physics background, and I focus on applications of network science to systems biology. Much of my work is about studying how feedback loops give rise to multistability in complex systems, and especially in biomedical systems. I work on generalizing Boolean techniques to ODEs by considering how positive feedback loops in networks give rise to trap sets in phase space. I've used this framework to study attractor control of ODE models in various contexts, including the cell cycle regulation, pattern formation during embriogenesis, and immune cell signaling. I also have a passion for Boolean networks–discrete dynamical models popular for modeling regulatory systems in biology. I am the lead developer of the Python libraries [pystablemotifs](https://github.com/jcrozum/pystablemotifs) and [cubewalkers](https://github.com/jcrozum/cubewalkers), which together allow for fast attractor detection, control, and GPU-accelerated simulation in Boolean networks. I apply these methods to study the target control problem in experimentally-derived models and order-to-chaos phase transitions in random networks. Recently, I have also been developing methods to sparsify multi-layer networks while taking into account multiple data sources. I apply these methods to various problems in computational social science, health, and biomedical complexity.
 
 ### Highlights: Understanding the biomolecular decisions that cells make
 
@@ -53,7 +51,7 @@ See the relevant paper [here](https://doi.org/10.1371/journal.pcbi.1006630).
 ## Research Experience
 
 ### Postdoctoral Researcher 2022-Present, Binghamton University (SUNY) Dept. of Systems Science and Industrial Engineering
-I am a current member of the Complex Adaptive Systems & Computational Intelligence ([CASCI](https://casci.binghamton.edu/casci.php)) laboratory lead by Professor Luis Rocha. I work on developing new tools and algorithms for analyzing complex networks in a variety of domains, including social media, biomedical data, and systems biology.
+I am a current member of the Complex Adaptive Systems & Computational Intelligence ([CASCI](https://casci.binghamton.edu/casci.php)) laboratory lead by Professor Luis Rocha. I work on developing new tools and algorithms for analyzing complex networks in a variety of domains, including social media, biomedical data, and systems biology. I apply these tools to gain new insights into robustness and redundancy in biomedical systems from the cellular scale to the social scale.
 
 ### Graduate Research Assistant 2016–2022, Pennsylvania State University Dept. of Physics
 Developing new network control approaches that generalize methods for discrete dynamics to continuous ODE network
@@ -117,17 +115,17 @@ analyses of galaxy catalogs to search for possible indications of observation bi
 #### Teaching Assistant, Pennsylvania State University Department of Mathematics 2016-2017
 Course: Introductory Classical Mechanics
 
-#### Course Instructor, Utah State University 2015
-Course: Advanced Calculus
+#### Course Instructor, Utah State University Department of Mathematics 2015
+Course: Calculus II
 
 #### Teaching Assistant, Utah State University Department of Mathematics 2015
-Courses: Introductory College Algebra
+Courses: College Algebra
 
 #### Teaching Assistant, Utah State University Department of Physics 2013-2014
 Courses: Introductory Physics I and II
 
 #### Undergraduate Teaching Fellow, Utah State University 2011-2013
-Courses: Classical Mechanics, Electromagnetism I and II
+Courses: Advanced Classical Mechanics, Advanced Electromagnetism I and II
 
 ## Reviewer
 Bioinformatics <br>
@@ -150,20 +148,20 @@ Experience with high-performance computing and managing large datasets
 
 ## Publications
 #### _in preparation_
-AM Marcus, **JC Rozum**, H Sizek, LM Rocha. CANA 1.0: efficient quantification of symmetry in Boolean automata (working title). *In preparation*.
+AM Marcus, **JC Rozum**, H Sizek, LM Rocha. CANA 1.0 and schematodes: efficient quantification of symmetry in Boolean automata (working title). *In preparation*.
 
 Z Guo, J Felag, RB Correia, **JC Rozum**, LM Rocha. Selection of relevant patient cohorts from social media using the metric backbone of knowledge networks. *In preparation*.
-
-KH Park, FX Costa, LM Rocha, R Albert, **JC Rozum**. Hidden order in biomolecular networks suggests functional modules far from the edge of chaos. *In preparation*.
 
 **JC Rozum** and LM Rocha. The ultrametric backbone is the union of all minimum spanning forests. *In preparation*.
 
 #### _submitted_
-R Li, **JC Rozum**, MM Quail, MN Qasim, SS Sindi, CJ Nobile, R Albert, AD Hernday. Inferring gene regulatory networks using transcriptional profiles as dynamical attractors. Submitted *PLoS Computational Biology* (2023).
+**JC Rozum**, C Campbell, E Newby, FSF Nasrollahi, R Albert. Boolean Networks as Predictive Models of Emergent Biological Behaviors. **Accepted**, *Cambridge Elements* (2023)
 
-**JC Rozum**, C Campbell, E Newby, FSF Nasrollahi, R Albert. Boolean Networks as Predictive Models of Emergent Biological Behaviors. Submitted *Cambridge Elements* (2023).
+KH Park, FX Costa, LM Rocha, R Albert, **JC Rozum**. Robustness of biomolecular networks suggests functional modules far from the edge of chaos. **Under revision**, *PRX Life* (2023)
 
 #### _published_
+R Li, **JC Rozum**, MM Quail, MN Qasim, SS Sindi, CJ Nobile, R Albert, AD Hernday. Inferring gene regulatory networks using transcriptional profiles as dynamical attractors. *PLoS Computational Biology* **19** (8), e1010991 (2023)
+
 FX Costa, **JC Rozum**, AM Marcus, LM Rocha. Effective Connectivity and Bias Entropy Improve Prediction of Dynamical Regime in Automata Networks. *Entropy* **25** (2), 374, (2023)
 
 **JC Rozum** and R Albert. Leveraging network structure in nonlinear control. *npj Systems Biology and Applications* **8**, 36 (2022)
@@ -188,16 +186,16 @@ J Price, **JC Rozum**, G Ware, and D Baker. Global Nightly OH and O2 Mesospheric
 
 ### Selected Talks and Poster Presentations
 
-**JC Rozum**, JGT Zañudo, X Gan, D Deritei and R Albert. Parity and time-reversal in Boolean networks. Poster presented at the Cold Spring Harbor Laboratory Cellular Dyanamics and Models meeting, May 19-21, 2021.
+KH Park, FX Costa, LM Rocha, R Albert, **JC Rozum**. Robustness of biomolecular networks suggests functional modules far from the edge of chaos. Talk planned for International Conference on Systems Biology. Hartford CT, Oct. 10, 2023
 
-**JC Rozum**. Boolean Networks: discrete dynamical models of high-dimensional nonlinear systems. Invited talk given at the University of Pennsylvania Mathematical Biology Seminar, Apr. 6, 2021.
+F Xavier Costa, **JC Rozum**, AM Marcus and LM Rocha. Effective connectivity and bias entropy improve prediction of dynamical regime in automata networks. Talk given at the NetSci international conference. Vienna, Austria, Jul. 14, 2023
 
-**JC Rozum**, JGT Zañudo, X Gan, and R Albert. Parity and time-reversal in Boolean networks. Talk given at the NetSci 2020 meeting, Rome, Italy (remote), Sep. 25, 2020
+**JC Rozum**, JGT Zañudo, X Gan, D Deritei and R Albert. Parity and time-reversal in Boolean networks. Poster presented at the Cold Spring Harbor Laboratory Cellular Dyanamics and Models conference. Laurel Hollow, NY, May 19-21, 2021
 
-**JC Rozum** and R Albert. Control robust trap spaces with applications to biomolecular networks. Talk given at the NetSci 2019 meeting, Burlington, VT, May 29, 2019
+**JC Rozum**. Boolean Networks: discrete dynamical models of high-dimensional nonlinear systems. Invited talk given at the University of Pennsylvania Mathematical Biology Seminar. Philadelphia, PA, Apr. 6, 2021
 
-**JC Rozum** and R Albert. Identifying (un)controllable dynamical behavior with applications to biomolecular networks. Invited talk given at Pennsylvania State University Theoretical biology seminar, State College, PA, Feb. 20, 2018
+**JC Rozum**, JGT Zañudo, X Gan, and R Albert. Parity and time-reversal in Boolean networks. Talk given at the NetSci international conference. Rome, Italy, Sep. 25, 2020
 
-**JC Rozum** and SL Larson. Modeling spiral galaxy surface luminosity to explain non-uniform inclination distributions. Poster presented at AAS National Conference, Washington D.C., Jan. 5, 2014
+**JC Rozum** and R Albert. Control robust trap spaces with applications to biomolecular networks. Talk given at the NetSci international conference. Burlington, VT, May 29, 2019
 
-**JC Rozum**, GA. Ware, DJ Baker, MG Mlynczak, J Russell. Multiple peaks in SABER mesospheric OH emission altitude profiles. Poster presented at AGU Fall Meeting, San Francisco, CA, Dec. 4, 2012
+**JC Rozum** and R Albert. Identifying (un)controllable dynamical behavior with applications to biomolecular networks. Invited talk given at Pennsylvania State University Theoretical biology seminar. State College, PA, Feb. 20, 2018
