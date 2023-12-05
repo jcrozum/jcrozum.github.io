@@ -137,6 +137,7 @@ Mathematical Biosciences and Engineering <br>
 Nature Communications <br>
 npj Systems Biology and Applications <br>
 Physica D: Nonlinear Phenomena <br>
+PLOS Computational Biology <br>
 Scientific Reports <br>
 
 ## Skills
@@ -155,9 +156,11 @@ Z Guo, J Felag, RB Correia, **JC Rozum**, LM Rocha. Selection of relevant patien
 **JC Rozum** and LM Rocha. The ultrametric backbone is the union of all minimum spanning forests. *In preparation*.
 
 #### _submitted_
+KH Park, **JC Rozum**, R Albert. From years to hours: accelerating model refinement. **Submitted**, *PLOS Computational Biology* (2023)
+
 **JC Rozum**, C Campbell, E Newby, FSF Nasrollahi, R Albert. Boolean Networks as Predictive Models of Emergent Biological Behaviors. **Accepted**, *Cambridge Elements* (2023)
 
-KH Park, FX Costa, LM Rocha, R Albert, **JC Rozum**. Robustness of biomolecular networks suggests functional modules far from the edge of chaos. **Under revision**, *PRX Life* (2023)
+KH Park, FX Costa, LM Rocha, R Albert, **JC Rozum**. Models of cell processes are far from the edge of chaos. **Accepted**, *PRX Life* (2023)
 
 #### _published_
 R Li, **JC Rozum**, MM Quail, MN Qasim, SS Sindi, CJ Nobile, R Albert, AD Hernday. Inferring gene regulatory networks using transcriptional profiles as dynamical attractors. *PLoS Computational Biology* **19** (8), e1010991 (2023)
@@ -176,7 +179,7 @@ FX Costa, **JC Rozum**, AM Marcus, LM Rocha. Effective Connectivity and Bias Ent
 
 D Deritei, **JC Rozum**, E Ravasz Regan, R Albert. A feedback loop of conditionally stable circuits drives the cell cycle from checkpoint to checkpoint. *Scientific Reports* **9** 16430 (2019)
 
-**JC Rozum** and R Albert. Identifying (un) controllable dynamical behavior in complex networks. *PLoS Computational Biology* **14** (12) (2018)
+**JC Rozum** and R Albert. Identifying (un) controllable dynamical behavior in complex networks. *PLOS Computational Biology* **14** (12) (2018)
 
 **JC Rozum** and R Albert. Self-sustaining positive feedback loops in discrete and continuous systems. *Journal of Theoretical Biology* **459** 35-44 (2018)
 
