@@ -15,11 +15,36 @@ I have a math and physics background, and I focus on applications of network sci
 
 ### Highlights: Understanding the biomolecular decisions that cells make
 
-##### “Parity and time-reversal elucidate both decision-making in empirical models and attractor scaling in critical Boolean networks” <br> JC Rozum, JGT Zañudo, X Gan, D Deritei and R Albert <br>Science Advances 7 (29), eabf8124,2021
+### Highlights: Characterizing robust behaviors in cells
+
+##### "Models of cell processes are far from the edge of chaos" <br>KH Park, FX Costa, LM Rocha, R Albert, JC Rozum <br>PRX Life 1, 023009, 2023
+![Edge of chaos](edge_of_chaos.png)
+
+Powerful new simulations of cell processes models using our Python library [cubewalkers](https://github.com/jcrozum/cubewalkers) have revealed more robustness than previously proposed, challenging the prevailing "edge of chaos" theory (simulation code and results available [here](https://github.com/kyuhyongpark/cubewalkers-analysis)). The edge of chaos theory is based on the idea that life needs to adapt to its environment without being hypersensitive to it. If cells behave chaotically, then the tiniest errors can snowball into catastrophic--and fatal--failure. On the other hand, if they behave with rigid, crystalline order, then they are slow to adapt to changes in their environment. The edge of chaos is the critical point that separates these regimes and is thought to be the "sweet spot" where living systems operate. That was not the case here. In one of the largest databases of experimentally-supported cell process models, cells were able to recover from perturbations with much more resiliency than the edge of chaos hypothesis predicts. This suggests that, at least in the processes studied, life is willing to sacrifice some adaptive flexibility in favor of day-to-day robustness, challenging the notion that cells live life on the edge of chaos.
+
+See the relevant paper [here](https://doi.org/10.1103/PRXLife.1.023009)
+
+##### "Identifying (un) controllable dynamical behavior in complex networks" <br>JC Rozum and R Albert <br>PLoS Computational Biology 14 (12), 2018
+
+![Drosophila](DrosophilaEN.png)
+
+We developed a formalism that identifies positive feedback loops
+in ODE models that can "lock in", causing a system to commit to a restricted range of possible long-term behaviors. We used this
+formalism to analyze the biomolecular decisions that lead to the formation of embryonic segments in the
+fly (*Drosophila melanogaster*) and to uncover a self-reinforcing feedback loop in the biomolecular circuitry
+that governs the response of T-cells to external signals. In both cases, we showed how these methods identify
+manipulations of the system that can disrupt observed phenotypes and manipulations that cannot.
+Apart from their utility in basic science research, observations of this nature have important potential applications 
+in the development of pharmaceuticals
+because they can narrow the (often very expensive) search for potential drug targets.
+
+See the relevant paper [here](https://doi.org/10.1371/journal.pcbi.1006630).
+
+##### "Parity and time-reversal elucidate both decision-making in empirical models and attractor scaling in critical Boolean networks" <br>JC Rozum, JGT Zañudo, X Gan, D Deritei and R Albert <br>Science Advances 7 (29), eabf8124, 2021
 
 ![PS](PS_SD_Overview.png)
 
-I led the development of the open-source Python library [pystablemotifs](https://github.com/jcrozum/pystablemotifs), 
+We developed the open-source Python library [pystablemotifs](https://github.com/jcrozum/pystablemotifs), 
 which provides one of the world's fastest algorithms for attractor identification
 and control in Boolean networks. This library uses parity and time reversal provide new insights into the key regulatory circuits that underpin the biochemical "decisions" that cells make. We used this tool to identify
 the attractor repertoires of networks 80 times larger than ever before considered and thereby resolved a 50-year-old open problem about how stochasticity affects a cell's diversity of phenotypes. This was the
@@ -29,24 +54,6 @@ highly sensitive to stochasticity, suggesting biological selection pressures tha
 
 See the relevant paper [here](https://doi.org/10.1126/sciadv.abf8124),
 and a popular press summary [here](https://www.eurekalert.org/news-releases/583775).
-
-### Highlights: Characterizing robust behaviors in cells
-
-##### “Identifying (un) controllable dynamical behavior in complex networks” <br>JC Rozum and R Albert <br>PLoS Computational Biology 14 (12), 2018
-
-![Drosophila](DrosophilaEN.png)
-
-I developed a formalism that allows one to identify positive feedback loops
-in ODE models that function in a manner analogous to the stable motifs of discrete models. I used this
-formalism to analyze the biomolecular decisions that lead to the formation of embryonic segments in the
-fly (*Drosophila melanogaster*) and to uncover a self-reinforcing feedback loop in the biomolecular circuitry
-that governs the response of T-cells to external signals. In both cases, I showed how my methods identify
-manipulations of the system that can disrupt observed phenotypes and manipulations that cannot.
-Apart from their utility in basic science research, observations of this nature have important potential applications 
-in the development of pharmaceuticals
-because they can narrow the (often very expensive) search for potential drug targets.
-
-See the relevant paper [here](https://doi.org/10.1371/journal.pcbi.1006630).
 
 ## Research Experience
 
@@ -160,9 +167,9 @@ KH Park, **JC Rozum**, R Albert. From years to hours: accelerating model refinem
 
 **JC Rozum**, C Campbell, E Newby, FSF Nasrollahi, R Albert. Boolean Networks as Predictive Models of Emergent Biological Behaviors. **Accepted**, *Cambridge Elements* (2023)
 
-KH Park, FX Costa, LM Rocha, R Albert, **JC Rozum**. Models of cell processes are far from the edge of chaos. **Accepted**, *PRX Life* (2023)
-
 #### _published_
+KH Park, FX Costa, LM Rocha, R Albert, **JC Rozum**. Models of cell processes are far from the edge of chaos. **Accepted**, *PRX Life* **1**, 023009 (2023)
+
 R Li, **JC Rozum**, MM Quail, MN Qasim, SS Sindi, CJ Nobile, R Albert, AD Hernday. Inferring gene regulatory networks using transcriptional profiles as dynamical attractors. *PLoS Computational Biology* **19** (8), e1010991 (2023)
 
 FX Costa, **JC Rozum**, AM Marcus, LM Rocha. Effective Connectivity and Bias Entropy Improve Prediction of Dynamical Regime in Automata Networks. *Entropy* **25** (2), 374, (2023)
