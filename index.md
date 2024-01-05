@@ -14,8 +14,6 @@ I am a postdoctoral researcher studying complex systems in the Complex Adaptive 
 
 I have a math and physics background, and I focus on applications of network science to systems biology. Much of my work is about studying how feedback loops give rise to multistability in complex systems, and especially in biomedical systems. I work on generalizing Boolean techniques to ODEs by considering how positive feedback loops in networks give rise to trap sets in phase space. I've used this framework to study attractor control of ODE models in various contexts, including the cell cycle regulation, pattern formation during embriogenesis, and immune cell signaling. I also have a passion for Boolean networks–discrete dynamical models popular for modeling regulatory systems in biology. I am the lead developer of the Python libraries [pystablemotifs](https://github.com/jcrozum/pystablemotifs) and [cubewalkers](https://github.com/jcrozum/cubewalkers), which together allow for fast attractor detection, control, and GPU-accelerated simulation in Boolean networks. I apply these methods to study the target control problem in experimentally-derived models and order-to-chaos phase transitions in random networks. Recently, I have also been developing methods to sparsify multi-layer networks while taking into account multiple data sources. I apply these methods to various problems in computational social science, health, and biomedical complexity.
 
-### Highlights: Understanding the biomolecular decisions that cells make
-
 ### Highlights: Characterizing robust behaviors in cells
 
 ##### "Models of cell processes are far from the edge of chaos" <br>KH Park, FX Costa, LM Rocha, R Albert, JC Rozum <br>PRX Life 1, 023009, 2023
@@ -40,6 +38,8 @@ in the development of pharmaceuticals
 because they can narrow the (often very expensive) search for potential drug targets.
 
 See the relevant paper [here](https://doi.org/10.1371/journal.pcbi.1006630).
+
+### Highlights: Understanding the biomolecular decisions that cells make
 
 ##### "Parity and time-reversal elucidate both decision-making in empirical models and attractor scaling in critical Boolean networks" <br>JC Rozum, JGT Zañudo, X Gan, D Deritei and R Albert <br>Science Advances 7 (29), eabf8124, 2021
 
