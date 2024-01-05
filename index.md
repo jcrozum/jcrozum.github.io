@@ -2,7 +2,7 @@
 [![GitHub](https://badgen.net/badge/icon/GitHub/?icon=github&label)](https://github.com/jcrozum)
 [![GoogleScholar](https://badgen.net/badge/icon/Google%20Scholar/?icon=https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg&label)](https://scholar.google.com/citations?user=xUOh4q4AAAAJ&hl=en&oi=ao)
 [![ResearchGate](https://badgen.net/badge/icon/ResearchGate/?icon=https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg&label)](https://www.researchgate.net/profile/Jordan-Rozum)
-[![LinkedIn](https://badgen.net/badge/icon/LinkedIn/?icon=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg&label)](www.linkedin.com/in/jordan-rozum)
+[![LinkedIn](https://badgen.net/badge/icon/LinkedIn/?icon=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg&label)](https://www.linkedin.com/in/jordan-rozum)
 [![ORCiD](https://badgen.net/badge/icon/ORCiD/?icon=https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg&label)](https://orcid.org/0000-0002-4356-9809)
 
 I am a postdoctoral researcher studying complex systems in the Complex Adaptive Systems & Computational Intelligence ([CASCI](https://casci.binghamton.edu/casci.php)) laboratory at Binghamton University. I have a math and physics background, and a focus on applications to systems biomedicine and computational social science.
