@@ -201,16 +201,16 @@ J Price, **JC Rozum**, G Ware, and D Baker. Global Nightly OH and O2 Mesospheric
 
 ### Selected Talks and Poster Presentations
 
-KH Park, FX Costa, LM Rocha, R Albert, **JC Rozum**. Robustness of biomolecular networks suggests functional modules far from the edge of chaos. Talk planned for International Conference on Systems Biology. Hartford CT, Oct. 10, 2023
+KH Park, FX Costa, LM Rocha, R Albert, **JC Rozum**. Robustness of biomolecular networks suggests functional modules far from the edge of chaos. *Talk* given at the International Conference on Systems Biology. Hartford CT, Oct. 10, 2023
 
-F Xavier Costa, **JC Rozum**, AM Marcus and LM Rocha. Effective connectivity and bias entropy improve prediction of dynamical regime in automata networks. Talk given at the NetSci international conference. Vienna, Austria, Jul. 14, 2023
+F Xavier Costa, **JC Rozum**, AM Marcus and LM Rocha. Effective connectivity and bias entropy improve prediction of dynamical regime in automata networks. *Talk* given at the NetSci international conference. Vienna, Austria, Jul. 14, 2023
 
-**JC Rozum**, JGT Zañudo, X Gan, D Deritei and R Albert. Parity and time-reversal in Boolean networks. Poster presented at the Cold Spring Harbor Laboratory Cellular Dyanamics and Models conference. Laurel Hollow, NY, May 19-21, 2021
+**JC Rozum**, JGT Zañudo, X Gan, D Deritei and R Albert. Parity and time-reversal in Boolean networks. *Poster* presented at the Cold Spring Harbor Laboratory Cellular Dyanamics and Models conference. Laurel Hollow, NY, May 19-21, 2021
 
-**JC Rozum**. Boolean Networks: discrete dynamical models of high-dimensional nonlinear systems. Invited talk given at the University of Pennsylvania Mathematical Biology Seminar. Philadelphia, PA, Apr. 6, 2021
+**JC Rozum**. Boolean Networks: discrete dynamical models of high-dimensional nonlinear systems. *Invited talk* given at the University of Pennsylvania Mathematical Biology Seminar. Philadelphia, PA, Apr. 6, 2021
 
-**JC Rozum**, JGT Zañudo, X Gan, and R Albert. Parity and time-reversal in Boolean networks. Talk given at the NetSci international conference. Rome, Italy, Sep. 25, 2020
+**JC Rozum**, JGT Zañudo, X Gan, and R Albert. Parity and time-reversal in Boolean networks. *Talk* given at the NetSci international conference. Rome, Italy, Sep. 25, 2020
 
-**JC Rozum** and R Albert. Control robust trap spaces with applications to biomolecular networks. Talk given at the NetSci international conference. Burlington, VT, May 29, 2019
+**JC Rozum** and R Albert. Control robust trap spaces with applications to biomolecular networks. *Talk* given at the NetSci international conference. Burlington, VT, May 29, 2019
 
-**JC Rozum** and R Albert. Identifying (un)controllable dynamical behavior with applications to biomolecular networks. Invited talk given at Pennsylvania State University Theoretical biology seminar. State College, PA, Feb. 20, 2018
+**JC Rozum** and R Albert. Identifying (un)controllable dynamical behavior with applications to biomolecular networks. *Invited talk* given at Pennsylvania State University Theoretical biology seminar. State College, PA, Feb. 20, 2018
