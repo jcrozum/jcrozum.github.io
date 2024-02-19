@@ -144,6 +144,7 @@ Bioinformatics <br>
 Biophysical Journal <br>
 BMC Bioinformatics <br>
 Journal of Complex Networks <br>
+Journal of Mathematical Biology <br>
 Mathematics in Science and Industry <br>
 Mathematical Biosciences and Engineering <br>
 Nature Communications <br>
