@@ -169,7 +169,7 @@ Z Guo, J Felag, RB Correia, **JC Rozum**, LM Rocha. Selection of relevant patien
 **JC Rozum** and LM Rocha. The ultrametric backbone is the union of all minimum spanning forests. *In preparation*.
 
 #### _submitted_
-KH Park, **JC Rozum**, R Albert. From years to hours: accelerating model refinement. **Submitted**, *PLOS Computational Biology* (2023)
+KH Park, **JC Rozum**, R Albert. From years to hours: accelerating model refinement. *Submitted*.
 
 **JC Rozum**, C Campbell, E Newby, FSF Nasrollahi, R Albert. Boolean Networks as Predictive Models of Emergent Biological Behaviors. **Accepted**, *Cambridge Elements* (2023)
 
