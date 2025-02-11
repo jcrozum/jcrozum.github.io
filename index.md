@@ -5,12 +5,14 @@
 [![LinkedIn](https://badgen.net/badge/icon/LinkedIn/?icon=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg&label)](https://www.linkedin.com/in/jordan-rozum)
 [![ORCiD](https://badgen.net/badge/icon/ORCiD/?icon=https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg&label)](https://orcid.org/0000-0002-4356-9809)
 
-I am a postdoctoral research associate studying complex systems in the Complex Adaptive Systems & Computational Intelligence ([CASCI](https://casci.binghamton.edu/casci.php)) laboratory at Binghamton University. I have a math and physics background, and a research focus on applications to systems biomedicine and computational social science.
+I am a postdoctoral computational biologist at Pacific Northwest National Lab. This page primarily describes my work prior to joining PNNL.
+
+Prior to joingin PNNL, I was a postdoctoral research associate studying complex systems in the Complex Adaptive Systems & Computational Intelligence ([CASCI](https://casci.binghamton.edu/casci.php)) laboratory at Binghamton University. I have a math and physics background, and a research focus on applications to systems biology.
 
 ## Research Interests
 
-**Current work: complex systems science, network dynamics and control theory, systems biology and biomedicine**<br>
-*Previous work: galaxy modeling, airglow physics, differential geometry and Lie theory*
+**Current work: systems biology modeling, machine learning applications to protein structure, complexity science, network dynamics**<br>
+*Previous work: social networks in healthcare, galaxy modeling, airglow physics, differential geometry*
 
 I have a math and physics background, and my current work focuses on applications of data science and dynamics to systems biology. Much of my work has been about how feedback loops in biological networks give rise to complex behaviors. I've applied these ideas in various contexts, including cell cycle regulation, pattern formation during embriogenesis, and immune cell signaling. I enjoy working with Boolean networks, which are discrete dynamical models popular in systems biology. 
 
